@@ -46,9 +46,13 @@
 
 //comparison of data types
 
-console.log(2>1);
-console.log(2>=1)
-console.log(2<1)
-console.log(2==1)
-console.log(2!=1)
+// console.log(2>1);
+// console.log(2>=1)
+// console.log(2<1)
+// console.log(2==1)
+// console.log(2!=1)
 
+
+//Data type
+
+ 
